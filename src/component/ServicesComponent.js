@@ -33,7 +33,7 @@ export default class ServicesComponent extends Component {
 
                         <div className="col-lg-4 mt-5">
                             <div className="d-flex" data-aos="zoom-in" data-aos-duration="400">
-                                <i className="fab fa-pied-piper-square text-white fa-2x"></i>
+                                <i className="fab fa-pied-piper text-white fa-2x"></i>
                                 <div className="ms-2">
                                     <strong className="text-white">Motion graphics</strong>
                                     <p className="text-white">modern motion graphics and animation for businesses.</p>
