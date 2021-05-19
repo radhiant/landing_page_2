@@ -1,0 +1,90 @@
+.bg-services{
+    background-image: url('bg-services.svg');
+    background-size: 100%;
+    background-color: #502EFF;
+    z-index: -1;
+}
+
+.bg-archievement{
+    background-size: 100%;
+    background-color: #FAF7FF;
+    z-index: -1;
+}
+
+.text-header{
+    font-size: 100px;
+    transform: translate(-150px, 250px) rotate(-90deg);
+    
+}
+
+.text-team{
+    font-size: 250px;
+    transform: translate(0px, 100px);
+}
+
+.img-header{
+    width: 600px;
+}
+
+.dot-position{
+    transform: translate(400px, -100px);
+}
+
+.dot-position-2{
+    transform: translate(400px, 150px);
+}
+
+
+
+.bg-footer{
+    background-size: 100%;
+    background-color: #FAF7FF;
+    z-index: -1;
+}
+
+.achievement{
+    transform: translateY(-50px);
+}
+
+.hr{
+    border: 2px solid #4C83FF;
+}
+
+.form-contact{
+    padding: 12px;
+    padding-left: 16px;
+    border: 2px solid #502EFF;
+    transition: 300ms;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.form-contact:focus{
+    outline: none;
+    box-shadow: 5px 3px 10px #502EFF;
+}
+
+.fadeOut{
+     opacity:0;
+     transition: width 0.5s 0.5s, height 0.5s 0.5s, opacity 0.5s;
+
+}
+.fadeIn{
+     opacity:1;
+     transition: width 0.5s, height 0.5s, opacity 0.5s 0.5s;
+
+}
+
+.btn-up {
+  z-index: 9999;
+  position: fixed;
+  right: 32px;
+  bottom: 80px;
+}
+
+.btn-full {
+  z-index: 9999;
+  position: fixed;
+  right: 32px;
+  bottom: 32px;
+}

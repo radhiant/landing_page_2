@@ -1,0 +1,49 @@
+
+
+@media screen and (max-width: 800px) {
+
+.img-header{
+    width: 300px;
+    transform: translate(-50px, 100px);
+}
+    
+.max-width-1x{
+    max-width: 100%;
+}
+
+.max-width-2x{
+    max-width: 100%;
+}
+
+.max-width-3x{
+    max-width: 100%;
+}
+
+.max-width-4x{
+    max-width: 100%;
+}
+
+.max-width-5x{
+    max-width: 100%;
+}
+
+}
+
+@media screen and (max-width: 600px) {
+
+.img-header{
+    width: 180px;
+    transform: translate(0px, 100px);
+}
+
+}
+
+@media screen and (max-width: 1199px) {
+  
+
+}
+
+@media screen and (max-width: 992px) {
+  
+
+}
